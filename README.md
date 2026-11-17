@@ -1,0 +1,2 @@
+# Frey-SMP
+server store
